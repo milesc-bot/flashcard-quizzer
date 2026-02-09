@@ -1,0 +1,12 @@
+[
+  {"front": "API", "back": "Application Programming Interface"},
+  {"front": "CLI", "back": "Command Line Interface"},
+  {"front": "DNS", "back": "Domain Name System"},
+  {"front": "HTTP", "back": "Hypertext Transfer Protocol"},
+  {"front": "JSON", "back": "JavaScript Object Notation"},
+  {"front": "REST", "back": "Representational State Transfer"},
+  {"front": "SQL", "back": "Structured Query Language"},
+  {"front": "SSH", "back": "Secure Shell"},
+  {"front": "TCP", "back": "Transmission Control Protocol"},
+  {"front": "URL", "back": "Uniform Resource Locator"}
+]
