@@ -1,0 +1,14 @@
+{
+  "cards": [
+    {"front": "What keyword is used to define a function in Python?", "back": "def"},
+    {"front": "What data type is used to store True or False values?", "back": "bool"},
+    {"front": "What built-in function returns the length of a list?", "back": "len"},
+    {"front": "What keyword is used to create a class in Python?", "back": "class"},
+    {"front": "What symbol is used for single-line comments in Python?", "back": "#"},
+    {"front": "What method adds an element to the end of a list?", "back": "append"},
+    {"front": "What keyword is used to handle exceptions in Python?", "back": "try"},
+    {"front": "What function converts a string to an integer?", "back": "int"},
+    {"front": "What keyword is used to import a module?", "back": "import"},
+    {"front": "What data structure uses key-value pairs?", "back": "dictionary"}
+  ]
+}
